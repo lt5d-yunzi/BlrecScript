@@ -1,0 +1,9 @@
+{
+    "recording": true,
+    "room_id": null,
+    "check_mode": "all",
+    "area_name": ["Area1", "Area2"],
+    "keywords": ["Keyword1", "Keyword2"],
+    "parent_area_name": ["ParentArea1", "ParentArea2"]
+  }
+  
