@@ -21,7 +21,7 @@ pip install Flask requests
 ```
 
 -   recording: 录制状态，true 表示启用录制，false 表示禁用录制。（不需要修改）
--   room_id: 要监控的直播间ID，建议保持为空。
+-   room_id: 要监控的直播间ID，建议保持为空。(无效)
 -   check_mode: 录制条件检查模式，可选值为 "area"（直播子分区）, "keywords"（关键词）, "parent_area"（直播主分区）, "all"（直播子分区和包含关键词）。
 -   其他根据 check_mode 的不同，配置相应的检查条件。
 
